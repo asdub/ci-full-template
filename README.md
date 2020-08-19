@@ -1,6 +1,7 @@
-# My first site hosted on Github with Code Institute
+## My first site hosted on Github with Code Institute
 
 This is part of the Code Institute course work for their Full Stack Web Developer program.
+
 You can view a live version of the site [here](https://asdub.github.io/ci-full-template/). 
 
 ## Project Description
