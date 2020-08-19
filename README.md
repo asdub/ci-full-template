@@ -1,17 +1,13 @@
-## Gitpod Reminders
+# My first site hosted on Github with Code Institute
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This is part of the Code Institute course work for their Full Stack Web Developer program.
+You can view a live version of the site [here](https://asdub.github.io/ci-full-template/). 
 
-`python3 -m http.server`
+## Project Description
 
-A blue button should appear to click: *Make Public*,
+The purpose of this exercise is to familiarise students with the development tools they will use. 
+Such as writing code in VS Studio/ Gitpod and managing the code via Git & Githib. 
+This simple site displays the different technologies and langusages that we will be using. 
 
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+## Technologies Used
+This project was written in HTML & CSS using Gitpod and is hoseted on Githib Pages. 
