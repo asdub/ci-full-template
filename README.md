@@ -2,6 +2,9 @@
 
 This is part of the Code Institute course work for their Full Stack Web Developer program.
 
+<h2 align="center"><img src="img/MockUp.png"></h2>
+
+
 You can view a live version of the site [here](https://asdub.github.io/ci-full-template/). 
 
 ## Project Description
